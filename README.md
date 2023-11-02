@@ -2,7 +2,7 @@
 BIOSView Anwendung
 Beschreibung
 
-Die BIOSView-Anwendung ist ein einfaches Tool, das BIOS- und BaseBoard-Informationen (Mainboard) auf einem Windows-Computer abruft und anzeigt. Es verwendet Windows Management Instrumentation (WMI) zur Abfrage
+Die BIOSView-Anwendung ist ein einfaches Tool, das BIOS- und BaseBoard-Informationen (Mainboard) auf einem Windows-Computer abruft und anzeigt. Es verwendet Windows Management Instrumentation (WMI) zur Abfrage.
 Merkmale
 
     Zeige BIOS-Informationen mit
